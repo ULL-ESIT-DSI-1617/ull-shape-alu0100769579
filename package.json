@@ -1,0 +1,27 @@
+{
+  "name": "@alu0100769579/ull-shape-alu0100769579",
+  "version": "1.0.0",
+  "description": "ull shape",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-alu0100769579.git"
+  },
+  "keywords": [
+    "js",
+    "switch smell"
+  ],
+  "author": "Raul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/ull-shape-alu0100769579/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "gulp-shell": "^0.6.3",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
+}
