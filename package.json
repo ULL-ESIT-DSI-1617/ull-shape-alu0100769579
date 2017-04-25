@@ -1,6 +1,6 @@
 {
   "name": "@alu0100769579/ull-shape-alu0100769579",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ull shape",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should"
