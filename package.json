@@ -3,7 +3,8 @@
   "version": "1.0.4",
   "description": "ull shape",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --require should"
+    "test": "./node_modules/mocha/bin/mocha --require should",
+    "doc": "documentation build ./shapesarea.js -f html -o docs"
   },
   "repository": {
     "type": "git",
