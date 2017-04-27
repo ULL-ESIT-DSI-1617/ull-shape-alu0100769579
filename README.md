@@ -6,15 +6,15 @@
 
 #### Install
 
-    ```js
-    npm install @alu0100769579/ull-shape-alu0100769579
-    ```
+```javascript
+npm install @alu0100769579/ull-shape-alu0100769579
+```
 
 #### Use
 
-    ```js
-    require('@alu0100769579/ull-shape-alu0100769579');
-    ```
+```javascript
+require('@alu0100769579/ull-shape-alu0100769579');
+```
 
 ### Documentación
 
